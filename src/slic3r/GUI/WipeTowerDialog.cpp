@@ -203,7 +203,7 @@ std::string RammingPanel::get_parameters()
 #endif
 
 static const float g_min_flush_multiplier = 0.f;
-static const float g_max_flush_multiplier = 3.f;
+static const float g_max_flush_multiplier = 10.f;
 
 wxBoxSizer* WipingDialog::create_btn_sizer(long flags)
 {
