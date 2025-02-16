@@ -29,7 +29,8 @@ Thank you for your vigilance and support in keeping our community safe!
 - Polyholes conversion support: [SuperSlicer Wiki: Polyholes](https://github.com/supermerill/SuperSlicer/wiki/Polyholes)
 - Klipper support
 - More granular controls
-- Additional features can be found in the [change notes](https://github.com/SoftFever/OrcaSlicer/releases/)  
+- Additional features can be found in the [change notes](https://github.com/SoftFever/OrcaSlicer/releases/)
+- This is a modified version to adjust flushing multiplier and values to combat color bleed on the Creality K2 Plus
 
 # Wiki
 The wiki below aims to provide a detailed explanation of the slicer settings, including how to maximize their use and how to calibrate and set up your printer.
